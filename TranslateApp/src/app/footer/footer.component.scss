@@ -1,0 +1,13 @@
+
+@import 'src/app/styles/colors';
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: $footer-color;
+    width : 100%;
+    height: 10%;
+    color: $footer-font;
+    text-align: center;
+    vertical-align: middle;
+  }
